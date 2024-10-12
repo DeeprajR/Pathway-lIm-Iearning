@@ -4,7 +4,7 @@ Original repo: https://github.com/pathwaycom/pathway
 
 ## Introduction
 
-This project is done as part of Gen AI Workshop by Pathway & μLearn. The updates are made llm-app/examples/pipelines/demo-question-answering.
+This project is done as part of Gen AI Workshop by Pathway & μLearn. The updates are made in llm-app/examples/pipelines/demo-question-answering.
 
 Add your Gemini API key to the .env file before running this project.
 
